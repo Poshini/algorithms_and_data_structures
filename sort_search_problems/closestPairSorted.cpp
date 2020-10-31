@@ -13,8 +13,8 @@
  *         Output:  7 and 40
  */
 
-#include <iostream>
-#include <vector>
+#include <iostream>   
+#include <vector>    
 #include <utility>
 #include <limits>
 #include <cmath>
