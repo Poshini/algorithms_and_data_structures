@@ -61,7 +61,6 @@ ListNode * addLists( ListNode * list1, ListNode *list2 )
         list1 = list1->next;
     }
 
-    // list1 is null
     while(list2) {
         int x = list2->val + carry;
         if ( x  > 9 ) {
